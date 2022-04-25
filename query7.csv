@@ -1,11 +1,192 @@
 country_name,percent_education_of_gdp,literacy_rate_percentage
-Azerbaijan,6.05797,100
-Estonia,5.70691,100
-Barbados,5.9448,100
 Andorra,3.71328,100
+Armenia,1.84843,100
+Azerbaijan,6.05797,100
+Barbados,5.9448,100
 Belarus,6.00001,100
 Cuba,8.36909,100
-Armenia,1.84843,100
+Estonia,5.70691,100
 Finland,5.41349,100
 Georgia,6.91566,100
 Kazakhstan,4.03445,100
+Latvia,5.27811,100
+Liechtenstein,2.46014,100
+Lithuania,4.76492,100
+Luxembourg,2.22194,100
+Norway,5.90406,100
+Poland,3.89145,100
+Russia,2.93979,100
+Slovakia,5.35695,100
+Slovenia,4.43858,100
+Tajikistan,8.18559,100
+Turkmenistan,3.04925,100
+Ukraine,4.57293,100
+"Antigua and Barbuda",2.75397,99
+Australia,6.00891,99
+Belgium,5.76282,99
+Canada,7.71019,99
+Chile,3.75121,99
+Croatia,3.81978,99
+Cyprus,4.33502,99
+Czechia,3.77508,99
+Denmark,5.95553,99
+France,3.42974,99
+Germany,4.40792,99
+Hungary,5.8794,99
+Iceland,4.25224,99
+Ireland,4.48104,99
+Italy,3.36681,99
+Japan,3.6563,99
+Kyrgyzstan,5.58819,99
+Moldova,9.89664,99
+Monaco,0.88103,99
+Netherlands,6.22115,99
+"New Zealand",4.75323,99
+Samoa,4.01625,99
+Sweden,6.37238,99
+Switzerland,3.49372,99
+Tonga,10.3465,99
+"Trinidad and Tobago",3.76808,99
+"United Kingdom",5.03205,99
+"United States",4.93105,99
+Uzbekistan,6.09001,99
+Argentina,1.45809,98
+Austria,4.14716,98
+Bermuda,4.1079,98
+"British Virgin Islands",10.5737,98
+Bulgaria,3.52948,98
+Maldives,5.79186,98
+Romania,3.24122,98
+"Saint Kitts and Nevis",3.96498,98
+Serbia,4.20984,98
+"South Korea",3.41404,98
+Spain,1.83301,98
+"Turks and Caicos Islands",4.71883,98
+Uruguay,1.98713,98
+Albania,3.44698,97
+Aruba,4.76391,97
+Greece,1.5465,97
+Israel,5.36452,97
+Mongolia,3.94897,97
+"North Macedonia",4.73345,97
+Bahamas,2.23284,96
+"Costa Rica",7.34717,96
+Grenada,3.92674,96
+Jordan,3.63004,96
+Macao,3.37757,96
+Qatar,3.00028,96
+"Saint Vincent and the Grenadines",4.42911,96
+"San Marino",2.62884,96
+Singapore,3.10976,96
+Venezuela,4.16287,96
+Bahrain,2.87441,95
+Brunei,6.23915,95
+China,1.38874,95
+Philippines,1.71773,95
+Portugal,1.63392,95
+Colombia,1.75434,94
+Dominica,4.28991,94
+"Equatorial Guinea",2.18798,94
+Fiji,5.19761,94
+"Hong Kong",2.36815,94
+Kuwait,3.28734,94
+"Marshall Islands",13.7318,94
+Mexico,2.28201,94
+Panama,4.04328,94
+Paraguay,2.10519,94
+Thailand,3.06622,94
+Turkey,4.34774,94
+Indonesia,2.78821,93
+Malaysia,4.55094,93
+Myanmar,2.8651,93
+"South Africa",5.16433,93
+Vietnam,4.88674,93
+Ecuador,2.00283,92
+Guyana,4.32898,92
+Malta,6.15197,92
+Palau,8.02807,92
+Seychelles,4.18848,92
+"Sri Lanka",3.3164,91
+Brazil,4.56816,90
+"Dominican Republic",2.64079,90
+Lebanon,1.66652,90
+Lesotho,4.64155,90
+Libya,2.26417,90
+Peru,3.39172,90
+"Puerto Rico",7.25052,90
+"Saint Lucia",5.53879,90
+Gabon,2.80552,89
+Mauritius,4.4409,89
+"Micronesia (country)",6.42491,89
+Namibia,7.21755,89
+Eswatini,3.71435,88
+Jamaica,3.63144,87
+Kenya,3.92982,87
+Oman,3.79283,87
+"Saudi Arabia",3.89025,87
+Botswana,4.38724,85
+"Cape Verde",6.39177,85
+"El Salvador",0.90451,85
+Honduras,2.01905,85
+Iran,2.77034,85
+Congo,5.7323,84
+"Solomon Islands",3.4,84
+Syria,3.58356,84
+Zimbabwe,2.31784,84
+Vanuatu,4.38802,83
+Iraq,3.85705,79
+Tunisia,5.23516,79
+Nicaragua,2.03859,78
+Belize,5.44344,77
+Comoros,2.20136,76
+Guatemala,1.85872,76
+Malawi,4.40479,75
+Cambodia,1.25907,74
+Egypt,4.52992,74
+Algeria,7.18201,73
+Laos,2.33457,73
+Uganda,3.16105,73
+Ghana,4.22444,72
+Sudan,1.01218,72
+Cameroon,3.07987,71
+Rwanda,2.15021,71
+Angola,4.09022,70
+"Sao Tome and Principe",2.72058,70
+Eritrea,1.63855,69
+Djibouti,7.62948,68
+Tanzania,2.24927,68
+Burundi,2.80336,67
+"Democratic Republic of Congo",2.26731,67
+Morocco,4.67169,67
+Madagascar,3.21737,65
+Yemen,9.64552,65
+India,3.36136,63
+"Papua New Guinea",5.24716,62
+Liberia,1.70166,61
+Nigeria,3.21017,61
+Zambia,4.38781,61
+Togo,2.1138,60
+Mauritania,1.5858,59
+Bangladesh,1.13093,58
+Timor,8.67059,58
+"Central African Republic",3.17053,57
+"Cote d'Ivoire",5.86539,57
+Nepal,2.89288,57
+Mozambique,1.78144,56
+Guinea-Bissau,5.24617,55
+Pakistan,1.65422,55
+Bhutan,5.51379,53
+Gambia,4.29515,51
+Senegal,2.52794,50
+Haiti,1.39374,49
+"Sierra Leone",4.94937,43
+Benin,2.74789,42
+Guinea,2.01639,41
+Ethiopia,2.11235,39
+Somalia,1.18469,38
+Chad,2.27335,35
+Mali,3.55959,33
+"Burkina Faso",1.67983,29
+Niger,1.05227,29
+Afghanistan,1.16036,28
+"South Sudan",0.96289,27
