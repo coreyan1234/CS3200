@@ -1,0 +1,6 @@
+person_id,salary,p_age,marital_status,city_id,UNION_id
+7,81215,37,married,21,81
+8,81215,42,married,21,201
+9,71306,55,married,23,90
+10,68486,22,married,32,201
+4,56602,35,married,35,201
